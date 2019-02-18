@@ -14,7 +14,7 @@ Dear community,
 
 We are pleased to announce the availability of Kamon APM, a hosted APM solution built from the ground up to work nicely
 with Kamon and along with it we are launching a [Free Starter Plan][pricing]. Starting today there are no excuses
-for your team to say that you can't have metrics and distributed tracing in production becase, well, you can get it for
+for your team to say that you can't have metrics and distributed tracing in production because, well, you can get it for
 free!
 
 There are a few question that came up while discussing this announcement with friends and coleagues so we decided to
